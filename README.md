@@ -12,7 +12,7 @@ The "Bank App Metacrafters" project consists of a Solidity smart contract called
 
 To run the project locally, follow these steps:
 
-1. Clone the repository from GitHub: [Bank App Metacrafters Repo](https://github.com/gautham2k3/ETH-AVAX_Mod-2_Project/).
+1. Clone the repository from GitHub:Bank App Metacrafters Repo
 2. Navigate to the project directory on your machine.
 
 ### Executing program
@@ -80,8 +80,8 @@ The `withdrawBalance` function allows users to withdraw funds from their bank ac
 
 ## Authors
 
-- Gautham 
-- bgautham27@gmail.com
+- Kartik 
+- raghuwanshikartik938@gmail.com
 
 ## License
 
